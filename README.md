@@ -9,4 +9,8 @@ En este repositorio se encuentra el código del proyecto para realizar un reloj 
 
 ---
 
+status: en desarrollo
+
+---
+
 ### Daniela H. | 2023 
